@@ -1,0 +1,14 @@
+
+{
+  "display_name": "Prolog, plunit",
+  "image_name": "cyberdojofoundation/prolog_plunit",
+  "visible_filenames":
+  [
+    "hiker.pl",
+    "hiker.plt",
+    "cyber-dojo.sh"
+  ],
+  "filename_extension": [ ".pl", ".plt" ],
+  "max_seconds": 10,
+  "tab_size": 4
+}
