@@ -1,6 +1,6 @@
 {
   "display_name": "Prolog, plunit",
-  "image_name": "cyberdojofoundation/prolog_plunit:f5a8102",
+  "image_name": "cyberdojofoundation/prolog_plunit:5a47752",
   "visible_filenames": [
     "hiker.pl",
     "hiker.plt",
