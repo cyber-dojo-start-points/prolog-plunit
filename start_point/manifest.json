@@ -1,11 +1,12 @@
 {
-  "display_name": "Prolog 10.1.1, plunit",
-  "image_name": "ghcr.io/cyber-dojo-languages/prolog_plunit:7197dd8",
+  "display_name": "Prolog 10.1.3, plunit",
+  "image_name": "ghcr.io/cyber-dojo-languages/prolog_plunit:7aaf4aa",
   "visible_filenames": [
     "hiker.pl",
     "hiker.plt",
     "cyber-dojo.sh"
   ],
+  "rag_lambda": "red_amber_green.rb",
   "filename_extension": [
     ".pl",
     ".plt"
