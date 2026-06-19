@@ -1,5 +1,13 @@
 {
   "display_name": "Prolog 10.1.5, plunit",
+  "language": [
+    "Prolog",
+    "10.1.5"
+  ],
+  "test_framework": [
+    "plunit",
+    ""
+  ],
   "image_name": "ghcr.io/cyber-dojo-languages/prolog_plunit:cdb7542",
   "visible_filenames": [
     "hiker.pl",
