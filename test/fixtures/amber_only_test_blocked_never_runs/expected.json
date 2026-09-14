@@ -1,0 +1,12 @@
+{
+  "matches": [
+    "^% one test is blocked ",
+    "^% All 0 tests passed in "
+  ],
+  "match_counts": {
+    "^% one test is blocked ": 1,
+    "^% All 0 tests passed in ": 1,
+    "answer_is_42": 0
+  },
+  "truncated": false
+}

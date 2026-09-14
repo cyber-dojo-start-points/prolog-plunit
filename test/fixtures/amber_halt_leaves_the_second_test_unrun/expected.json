@@ -1,0 +1,13 @@
+{
+  "matches": [
+    "^% Start unit: hiker$",
+    "^% \\[1/2\\] hiker:answer_is_42 \\.+$",
+    "^% No tests to run$"
+  ],
+  "match_counts": {
+    "answer_is_positive": 0,
+    ": failed$": 0,
+    "^% No tests to run$": 1
+  },
+  "truncated": false
+}

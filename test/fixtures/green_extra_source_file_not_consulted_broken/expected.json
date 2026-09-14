@@ -1,0 +1,13 @@
+{
+  "matches": [
+    "^% test passed in "
+  ],
+  "match_counts": {
+    "^% test passed in ": 1,
+    "Syntax error": 0,
+    "checksum": 0,
+    "FAILED": 0
+  },
+  "max_output_lines": 12,
+  "truncated": false
+}

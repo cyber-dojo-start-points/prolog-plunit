@@ -1,0 +1,13 @@
+{
+  "matches": [
+    "^ERROR: \\[Thread main\\] +test hiker:answer_is_42: failed$",
+    "^ERROR: \\[Thread main\\] +test hiker:answer_plus_bananas: received error: is/2: Arithmetic: .bananas/0. is not a function$"
+  ],
+  "match_counts": {
+    ": failed$": 1,
+    ": received error: ": 1,
+    "^ERROR: \\[Thread main\\] 2 tests failed$": 1,
+    "^% 0 tests passed$": 1
+  },
+  "truncated": false
+}

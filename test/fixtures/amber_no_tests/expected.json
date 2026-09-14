@@ -1,0 +1,11 @@
+{
+  "matches": [
+    "^% No tests to run$"
+  ],
+  "match_counts": {
+    "^% No tests to run$": 1,
+    "passed": 0,
+    "FAILED": 0
+  },
+  "truncated": false
+}

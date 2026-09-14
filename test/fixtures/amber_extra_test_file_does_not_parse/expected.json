@@ -1,0 +1,13 @@
+{
+  "matches": [
+    "Syntax error",
+    "^% No tests to run$"
+  ],
+  "match_counts": {
+    "^% No tests to run$": 1,
+    "answer_is_42": 0,
+    "passed": 0,
+    "FAILED": 0
+  },
+  "truncated": false
+}

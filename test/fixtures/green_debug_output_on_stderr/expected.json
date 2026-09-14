@@ -1,0 +1,14 @@
+{
+  "matches": [
+    "^debug: loaded the hiker module$",
+    "^% test passed in "
+  ],
+  "match_counts": {
+    "^debug: loaded the hiker module$": 1,
+    "debug: asking the ship computer": 0,
+    "^% test passed in ": 1,
+    "FAILED": 0
+  },
+  "max_output_lines": 14,
+  "truncated": false
+}

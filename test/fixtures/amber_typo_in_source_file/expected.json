@@ -1,0 +1,12 @@
+{
+  "matches": [
+    "^ERROR: \\[Thread main\\] +test hiker:answer_is_42: received error: is/2: Arithmetic: .sevn/0. is not a function$"
+  ],
+  "match_counts": {
+    ": failed$": 0,
+    ": received error: ": 1,
+    "^ERROR: \\[Thread main\\] 1 test failed$": 1,
+    "^% 0 tests passed$": 1
+  },
+  "truncated": false
+}

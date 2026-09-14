@@ -1,0 +1,14 @@
+{
+  "matches": [
+    "^% Start unit: answer$",
+    "^% \\[1/1\\] answer:answer_is_42 \\.+ passed ",
+    "^% test passed in "
+  ],
+  "match_counts": {
+    "^% test passed in ": 1,
+    "hiker": 0,
+    "FAILED": 0
+  },
+  "max_output_lines": 12,
+  "truncated": false
+}

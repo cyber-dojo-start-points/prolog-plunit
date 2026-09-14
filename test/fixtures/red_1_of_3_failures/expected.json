@@ -1,0 +1,12 @@
+{
+  "matches": [
+    "^ERROR: \\[Thread main\\] +test hiker:answer_is_42: failed$"
+  ],
+  "match_counts": {
+    ": failed$": 1,
+    "^% \\[[0-9]+/3\\] hiker:.+ passed ": 2,
+    "^ERROR: \\[Thread main\\] 1 test failed$": 1,
+    "^% 2 tests passed$": 1
+  },
+  "truncated": false
+}

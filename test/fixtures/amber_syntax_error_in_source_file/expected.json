@@ -1,0 +1,13 @@
+{
+  "matches": [
+    "^ERROR: \\[Thread main\\] /sandbox/hiker\\.pl:[0-9]+:[0-9]+: Syntax error: ",
+    "^ERROR: +Exported procedure hiker:answer/1 is not defined$",
+    "^ERROR: \\[Thread main\\] +test hiker:answer_is_42: received error: call_cleanup/2: Unknown procedure: plunit_hiker:answer/1$"
+  ],
+  "match_counts": {
+    ": failed$": 0,
+    ": received error: ": 1,
+    "^% 0 tests passed$": 1
+  },
+  "truncated": false
+}

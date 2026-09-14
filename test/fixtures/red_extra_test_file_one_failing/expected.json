@@ -1,0 +1,13 @@
+{
+  "matches": [
+    "^% Start unit: answer_size$",
+    "^ERROR: \\[Thread main\\] +test answer_size:answer_is_three_digits_long: failed$"
+  ],
+  "match_counts": {
+    ": failed$": 1,
+    "^ERROR: \\[Thread main\\] 1 test failed$": 1,
+    "^% 0 tests passed$": 1,
+    "hiker": 0
+  },
+  "truncated": false
+}

@@ -1,0 +1,13 @@
+{
+  "matches": [
+    "^% \\[2/2\\] hiker:answer_digits_sum_to_six \\.+ passed ",
+    "^% All 2 tests passed in "
+  ],
+  "match_counts": {
+    "^% \\[[0-9]+/2\\] hiker:.+ passed ": 2,
+    "^% All 2 tests passed in ": 1,
+    "FAILED": 0
+  },
+  "max_output_lines": 14,
+  "truncated": false
+}

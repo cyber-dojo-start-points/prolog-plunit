@@ -1,0 +1,12 @@
+{
+  "matches": [
+    "^% All 3 tests passed in "
+  ],
+  "match_counts": {
+    "^% \\[[0-9]+/3\\] hiker:.+ passed ": 3,
+    "^% All 3 tests passed in ": 1,
+    "FAILED": 0
+  },
+  "max_output_lines": 14,
+  "truncated": false
+}

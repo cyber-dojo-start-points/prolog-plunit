@@ -1,0 +1,15 @@
+{
+  "matches": [
+    "^% Start unit: answer_size$",
+    "^% \\[1/1\\] answer_size:answer_is_two_digits_long \\.+ passed ",
+    "^% test passed in "
+  ],
+  "match_counts": {
+    "^% Start unit: answer_size$": 1,
+    "^% test passed in ": 1,
+    "hiker": 0,
+    "FAILED": 0
+  },
+  "max_output_lines": 12,
+  "truncated": false
+}
