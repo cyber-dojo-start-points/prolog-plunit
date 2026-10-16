@@ -1,7 +1,7 @@
 {
   "matches": [
     "^ERROR: \\[Thread main\\] +test hiker:answer_is_42: received error: call_cleanup/2: Unknown procedure: plunit_hiker:ansver/1$",
-    "^ +answer/1$"
+    "^ +answer/1 \\[hiker\\]$"
   ],
   "match_counts": {
     ": failed$": 0,

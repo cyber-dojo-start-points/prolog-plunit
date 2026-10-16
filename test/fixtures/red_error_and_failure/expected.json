@@ -1,7 +1,7 @@
 {
   "matches": [
     "^ERROR: \\[Thread main\\] +test hiker:answer_is_42: failed$",
-    "^ERROR: \\[Thread main\\] +test hiker:answer_plus_bananas: received error: is/2: Arithmetic: .bananas/0. is not a function$"
+    "^ERROR: \\[Thread main\\] +test hiker:answer_plus_bananas: received error: \\(is\\)/2: Arithmetic: .bananas/0. is not a function$"
   ],
   "match_counts": {
     ": failed$": 1,
