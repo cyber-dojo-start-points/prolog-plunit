@@ -1,14 +1,14 @@
 {
-  "display_name": "Prolog 10.1.18, plunit",
+  "display_name": "Prolog 10.1.19, plunit",
   "language": [
     "Prolog",
-    "10.1.18"
+    "10.1.19"
   ],
   "test_framework": [
     "plunit",
     ""
   ],
-  "image_name": "ghcr.io/cyber-dojo-languages/prolog_plunit:a028359@sha256:38d4f042fb6389a1b0ee14af2f0e52f9c71565818dd8cf3b49edfc977e21276c",
+  "image_name": "ghcr.io/cyber-dojo-languages/prolog_plunit:07f1eba@sha256:de24f2e0f5639bd5ae01ead2df3182c298e6c145bacb9d2adf280a343c9b1991",
   "visible_filenames": [
     "hiker.pl",
     "hiker.plt",
